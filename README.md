@@ -1,10 +1,9 @@
-
-<H3>EX. NO.6</H3>
-<H3>DATE:28/04/2024</H3>
-<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
-<H3>NAME: Silambarasan K</H3>
-<H3>REGISTER NO : 212221230101</H3>
-<H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
+<H2 ALIGN =CENTER>Ex-6 Implementation of Semantic Analysis</H2>
+<H4>NAME: Silambarasan K</H4>
+<H4>REGISTER NO : 212221230101</H4>
+<h4>Date : 15/03/2024</h4>
+<H4>Aim: </H4>
+ <p></p>to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </p> 
  <BR>
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
